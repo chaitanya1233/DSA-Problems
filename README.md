@@ -11,4 +11,8 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/chaitanya1233/DSA-Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
