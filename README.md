@@ -6,6 +6,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chaitanya1233/DSA-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1929-concatenation-of-array) |
@@ -30,4 +31,12 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
