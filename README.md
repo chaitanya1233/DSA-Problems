@@ -50,6 +50,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/chaitanya1233/DSA-Problems/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +67,8 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/chaitanya1233/DSA-Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
