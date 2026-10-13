@@ -12,6 +12,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [1672-richest-customer-wealth](https://github.com/chaitanya1233/DSA-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -44,6 +45,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -60,4 +62,8 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
