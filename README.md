@@ -6,6 +6,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -70,5 +71,10 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/chaitanya1233/DSA-Problems/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
