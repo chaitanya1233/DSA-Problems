@@ -6,6 +6,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chaitanya1233/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
@@ -73,10 +74,12 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chaitanya1233/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chaitanya1233/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chaitanya1233/DSA-Problems/tree/master/0283-move-zeroes) |
