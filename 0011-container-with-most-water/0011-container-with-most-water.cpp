@@ -7,7 +7,8 @@ public:
         int low = 0;
         while(low < high)
         {
-            int area = min(height[low], height[high]) * (high - low);
+            int h  = min(height[low], height[high]);
+            int area = h  * (high - low);
             max_area = max(area,max_area);
 
             if(height[low] < height[high])
