@@ -16,6 +16,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [1480-running-sum-of-1d-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chaitanya1233/DSA-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chaitanya1233/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
@@ -40,6 +41,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chaitanya1233/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | ------- |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chaitanya1233/DSA-Problems/tree/master/0344-reverse-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chaitanya1233/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
