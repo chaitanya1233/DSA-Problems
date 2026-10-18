@@ -12,6 +12,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chaitanya1233/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/chaitanya1233/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaitanya1233/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -97,5 +98,6 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/chaitanya1233/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaitanya1233/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
