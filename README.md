@@ -13,6 +13,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chaitanya1233/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaitanya1233/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chaitanya1233/DSA-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaitanya1233/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -92,4 +94,8 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaitanya1233/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
