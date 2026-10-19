@@ -21,6 +21,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [1672-richest-customer-wealth](https://github.com/chaitanya1233/DSA-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chaitanya1233/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
@@ -61,6 +62,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
@@ -99,6 +101,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
