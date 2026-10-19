@@ -1,7 +1,7 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int idx = 0;
+        int idx =-1;
         int pos = -1;
         int n = nums.size();
         for(int i = 0;i<nums.size();i++)
