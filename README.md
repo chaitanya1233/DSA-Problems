@@ -8,6 +8,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanya1233/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/chaitanya1233/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -99,6 +100,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/chaitanya1233/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
