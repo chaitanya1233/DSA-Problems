@@ -1,9 +1,7 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        map<int,int> mp1;
-        map<int,int> mp2;
-        
+
         if(s.size() != t.size())
         {
             return false;
@@ -22,5 +20,7 @@ public:
                 return false;
             }
         }
-    }
+
+
+    }   
 };
