@@ -53,6 +53,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chaitanya1233/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -68,6 +69,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chaitanya1233/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chaitanya1233/DSA-Problems/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chaitanya1233/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -107,6 +109,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chaitanya1233/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya1233/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chaitanya1233/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
