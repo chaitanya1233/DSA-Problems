@@ -15,7 +15,8 @@ public:
         // }
         // return {-1,-1};
         int n = nums.size();
-
+        int idx = -1;
+        int idx2 = -1;
         unordered_map<int,int> mp;
         vector<int> v;
         for(int i = 0;i<n;i++)
@@ -23,13 +24,13 @@ public:
             int need = target - nums[i];
             if(mp.count(need))
             {
-                v.push_back(i);
-                v.push_back(mp[need]);
+                idx = i;
+                idx2 = mp[need];
                 break;
             }
             mp[nums[i]] = i;
         }
-       return v;
+       return {idx,idx2};
 
     }
 };  
