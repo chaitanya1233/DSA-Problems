@@ -6,6 +6,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chaitanya1233/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/chaitanya1233/DSA-Problems/tree/master/0035-search-insert-position) |
@@ -53,6 +54,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanya1233/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
