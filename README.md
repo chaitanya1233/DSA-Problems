@@ -10,6 +10,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0011-container-with-most-water](https://github.com/chaitanya1233/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/chaitanya1233/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/chaitanya1233/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/chaitanya1233/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
@@ -86,6 +87,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chaitanya1233/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -142,4 +144,8 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chaitanya1233/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/chaitanya1233/DSA-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
