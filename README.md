@@ -10,6 +10,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0011-container-with-most-water](https://github.com/chaitanya1233/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/chaitanya1233/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0128-longest-consecutive-sequence](https://github.com/chaitanya1233/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya1233/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,6 +60,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | ------- |
 | [0001-two-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanya1233/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/chaitanya1233/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/chaitanya1233/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -136,4 +138,8 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/chaitanya1233/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
