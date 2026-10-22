@@ -16,6 +16,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chaitanya1233/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/chaitanya1233/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya1233/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chaitanya1233/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -41,6 +42,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chaitanya1233/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/chaitanya1233/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaitanya1233/DSA-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -61,6 +63,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/chaitanya1233/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
