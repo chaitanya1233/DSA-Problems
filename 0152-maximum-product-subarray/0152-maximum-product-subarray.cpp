@@ -17,18 +17,39 @@ public:
         //     }
         // }
 
-        int n = nums.size();
-        int maxProd = INT_MIN;
+        // int n = nums.size();
+        // int maxProd = INT_MIN;
 
-        for(int r = 0;r<n;r++)
+        // for(int r = 0;r<n;r++)
+        // {
+        //     int prod  = 1;
+        //     for(int l = r;l<n;l++)
+        //     {
+        //         prod *= nums[l];
+        //         maxProd = max(maxProd,prod);
+        //     }
+        // }
+        // return maxProd;
+
+         int maxi = INT_MIN;
+        int prod=1;
+
+        for(int i=0;i<nums.size();i++)
         {
-            int prod  = 1;
-            for(int l = r;l<n;l++)
-            {
-                prod *= nums[l];
-                maxProd = max(maxProd,prod);
-            }
+          prod*=nums[i];
+          maxi=max(prod,maxi);
+          if(prod==0)
+           prod=1;
         }
-        return maxProd;
+        prod=1;
+        for(int i=nums.size()-1;i>=0;i--)
+        {
+          prod*=nums[i];
+
+          maxi=max(prod,maxi);
+          if(prod==0)
+           prod=1;
+        }
+        return maxi;
     }
 };
