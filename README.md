@@ -19,6 +19,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chaitanya1233/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya1233/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya1233/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -67,6 +68,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya1233/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanya1233/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
