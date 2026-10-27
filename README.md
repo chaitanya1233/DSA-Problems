@@ -40,6 +40,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/chaitanya1233/DSA-Problems/tree/master/0007-reverse-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanya1233/DSA-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/chaitanya1233/DSA-Problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/chaitanya1233/DSA-Problems/tree/master/2469-convert-the-temperature) |
 ## Prefix Sum
