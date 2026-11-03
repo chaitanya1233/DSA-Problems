@@ -41,6 +41,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/chaitanya1233/DSA-Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/chaitanya1233/DSA-Problems/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanya1233/DSA-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/chaitanya1233/DSA-Problems/tree/master/2235-add-two-integers) |
