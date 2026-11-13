@@ -73,6 +73,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/chaitanya1233/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanya1233/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -82,6 +83,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0217-contains-duplicate](https://github.com/chaitanya1233/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chaitanya1233/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/chaitanya1233/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaitanya1233/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -92,6 +94,7 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanya1233/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/chaitanya1233/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chaitanya1233/DSA-Problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/chaitanya1233/DSA-Problems/tree/master/0389-find-the-difference) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chaitanya1233/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
@@ -159,4 +162,8 @@ This repository contains all the codes and demo for DSA Problems i do everyday
 | [0053-maximum-subarray](https://github.com/chaitanya1233/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanya1233/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chaitanya1233/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/chaitanya1233/DSA-Problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
